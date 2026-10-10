@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+pymongo
+yt-dlp
+py-tgcalls
+gunicorn
+flask
